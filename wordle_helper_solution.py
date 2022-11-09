@@ -1,0 +1,2 @@
+_=[['kiwis','plant','drive','words','hands','bills','three','quack','color','green'],'red','green',5,'reverse','3','2','Enter guess #','yellow','\nCorrect guess! Thanks for playing!\n', 'You ran out of guesses! :(\n','\n','\nWelcome to Wordle!\n','']
+def p(i_i):return exit(print(i_i,_[11],_[9]))if i_i.count(_[5])==i_i.count(_[6])==_[3]else print(i_i,_[11])
